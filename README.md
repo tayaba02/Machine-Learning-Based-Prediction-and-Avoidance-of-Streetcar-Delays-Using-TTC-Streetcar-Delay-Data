@@ -1,0 +1,2 @@
+# Machine-Learning-Based-Prediction-and-Avoidance-of-Streetcar-Delays-Using-TTC-Streetcar-Delay-Data
+In this project, we proposed machine learning based techniques to predict and avoid the streetcar delays in Toronto City. Toronto Transit Commission (TTC) Streetcar Delay dataset is used and results are computed through different traditional and neural network based classifiers. A comparison of classifier results is also provided in this research.
